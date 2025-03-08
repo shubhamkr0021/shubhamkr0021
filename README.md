@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 **About Me:**
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/shubhamkr.png" alt="Your Image Badge" />
 I am a passionate **Data Science and Cybersecurity** professional interested in solving real-world problems through **machine learning**, **AI**, and **network security**. Currently interning at **Gilbert Research Centre**, I work on cutting-edge projects in **Medical Imaging**, **Virtual Reality**, and **Healthcare**.
 
 🔧 **Skills:** Python,Machine Learning Algorithm,Data Visualization, Scikit-learn, TensorFlow, Pandas, SQL, Kali Linux
