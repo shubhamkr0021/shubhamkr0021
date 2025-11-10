@@ -15,15 +15,17 @@
 
 ## 🧑‍💻 About Me
 
-https://tryhackme-badges.s3.amazonaws.com/shubhamkr.png?v=2
 
+<p align="right">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/shubhamkr.png?v=2" alt="TryHackMe Badge" width="350">
+</p>
 
 
 I’m passionate about data, security, and AI — building intelligent solutions that make systems smarter and safer.
 Right now, I’m at Hen Harrier Education Pvt Ltd, working on cool projects in machine learning and cybersecurity.
 Before this, I interned at Gilbert Research Centre, exploring AI for medical imaging and virtual reality.
 
-💡 My focus lies in bridging the gap between **data-driven intelligence** and **secure computing systems**, merging analytical thinking with ethical hacking.
+My focus lies in bridging the gap between **data-driven intelligence** and **secure computing systems**, merging analytical thinking with ethical hacking.
 
 ---
 
@@ -42,15 +44,15 @@ Before this, I interned at Gilbert Research Centre, exploring AI for medical ima
 
 ## 🧾 Professional Experience
 
-**🖋️ Hen Harrier Education Pvt Ltd** — *Technical Content Writer & Project Specialist (Apr 2025 – Present)*  
+**Hen Harrier Education Pvt Ltd** — *Technical Content Writer & Project Specialist (Apr 2025 – Present)*  
 - Authored and implemented **ML & Cybersecurity projects** for global university students.  
 - Produced technical reports involving **AI model development and penetration testing**. 
 
-**🧑‍🔬 Gilbert Research Centre** — *Research Intern (Dec 2024 – Apr 2025)*  
+**Gilbert Research Centre** — *Research Intern (Dec 2024 – Apr 2025)*  
 - Contributed to **medical imaging and AI research** projects.  
 - Developed early prototypes for **VR-based diagnostic visualization**.  
 
-**💻 EH1 Infotech, Mohali** — *Cybersecurity Intern*  
+**EH1 Infotech, Mohali** — *Cybersecurity Intern*  
 - Conducted **vulnerability assessments** using Nessus, Nmap, and Metasploit.  
 - Applied **OWASP Top 10** to assess and mitigate web application risks.
 
@@ -98,13 +100,12 @@ Before this, I interned at Gilbert Research Centre, exploring AI for medical ima
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shubham-kumar-61ab36135"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-61ab36135/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:iams.k@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://tryhackme.com/p/shubhamkr"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red"></a>
-  <a href="https://github.com/shubhamkr0021"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
 <h3 align="center">⚡ “Transforming data into intelligence and security into resilience.” ⚡</h3>
-<p align="center">🌱 Always learning, innovating, and ready for new challenges 🚀</p>
+<p align="center">🌱 Always learning, innovating, and ready for new challenges </p>
