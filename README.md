@@ -5,6 +5,7 @@
 <br>🎓 <em>Technical Content Writer @ Hen Harrier Education Pvt Ltd</em>
 </p>
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubhamkr0021/CBT-CIP/refs/heads/main/giphy.gif"/>
