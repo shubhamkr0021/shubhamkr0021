@@ -49,8 +49,8 @@ My focus lies in bridging the gap between **data-driven intelligence** and **sec
 - Produced technical reports involving **AI model development and penetration testing**. 
 
 **Gilbert Research Centre** — *Research Intern (Dec 2024 – Apr 2025)*  
-- Contributed to **medical imaging and AI research** projects.  
-- Developed early prototypes for **VR-based diagnostic visualization**.  
+- Research and development in medical imaging.  
+- Focusing on healthcare and industrial applications.  
 
 **EH1 Infotech, Mohali** — *Cybersecurity Intern*  
 - Conducted **vulnerability assessments** using Nessus, Nmap, and Metasploit.  
