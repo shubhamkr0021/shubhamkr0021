@@ -14,12 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-
-<p align="right">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/shubhamkr.png?v=2" alt="TryHackMe Badge" width="350">
-</p>
-
-
 I’m passionate about data, security, and AI — building intelligent solutions that make systems smarter and safer.
 Right now, I’m at Hen Harrier Education Pvt Ltd, working on cool projects in machine learning and cybersecurity.
 Before this, I interned at Gilbert Research Centre, exploring AI for medical imaging and virtual reality.
@@ -81,9 +75,14 @@ My focus lies in bridging the gap between **data-driven intelligence** and **sec
 ---
 
 ## Key Achievements
-- 💳 Built **fraud detection systems** achieving 99.7% AUC with Random Forest.  
+
+<p align="right">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/shubhamkr.png?v=2" alt="TryHackMe Badge" width="350">
+</p>
+ 
 - 🔍 Authored over **50+ technical reports** integrating ML and cybersecurity methods.  
-- 🧩 Contributed to **penetration testing frameworks** replicating real-world attack chains.  
+- 🧩 Contributed to **penetration testing frameworks** replicating real-world attack chains.
+- 💳 Built **fraud detection systems** achieving 99.7% AUC with Random Forest.  
 - 🏅 Active learner on **TryHackMe** and **Coursera Data Science Specialization**.
 
 ---
