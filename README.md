@@ -91,7 +91,7 @@ My focus lies in bridging the gap between **data-driven intelligence** and **sec
 - 🎖️ **IBM Cybersecurity Analyst – Coursera**  
 - 🎓 **DATA SCIENCE MASTERS – PwSkills**  
 - 🧩 **Data Science & Machine Learning – Gilbert Research Centre**
--   **Cloud computing with AWS** - Internshala trainings**
+-   **Cloud computing with AWS - Internshala trainings**
 
 ---
 
