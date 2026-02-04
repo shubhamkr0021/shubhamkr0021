@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Shubham Kumar</span></h1>
 
 <p align="center">
- <strong>Data Science & Cybersecurity Enthusiast</strong> | 🤖 Machine Learning | 🔐 Network Security   
-<br>🎓 <em>Technical Content Writer @ Hen Harrier Education Pvt Ltd</em>
+🤖 Machine Learning | 🔐 Network Security | Python 
+<br>🎓 <em>AI/ML & Cybersecurity Technical Analyst @ Hen Harrier Education Pvt Ltd</em>
 </p>
 
 ---
@@ -14,9 +14,10 @@
 
 ## 🧑‍💻 About Me
 
-I’m passionate about data, security, and AI — building intelligent solutions that make systems smarter and safer.
-Right now, I’m at Hen Harrier Education Pvt Ltd, working on cool projects in machine learning and cybersecurity.
-Before this, I interned at Gilbert Research Centre, exploring AI for medical imaging and virtual reality.
+AI/ML & Cybersecurity Technical Analyst with hands-on experience developing Python-based machine learning models,
+security analytics, and penetration testing frameworks. Skilled in translating complex AI and cybersecurity concepts into
+reproducible code, datasets, and technical documentation. Experienced in vulnerability assessment, data-driven
+modeling, and applied security research across academic and real-world scenarios.
 
 My focus lies in bridging the gap between **data-driven intelligence** and **secure computing systems**, merging analytical thinking with ethical hacking.
 
@@ -24,7 +25,7 @@ My focus lies in bridging the gap between **data-driven intelligence** and **sec
 
 ## Tech Stack
 
-**🧠 Data Science:**  
+**🧠 AI/ML:**  
 `Python` • `Scikit-learn` • `TensorFlow` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `SQL`
 
 **🔐 Cybersecurity:**  
@@ -37,9 +38,11 @@ My focus lies in bridging the gap between **data-driven intelligence** and **sec
 
 ## 🧾 Professional Experience
 
-**Hen Harrier Education Pvt Ltd** — *Technical Content Writer & Project Specialist (Apr 2025 – Present)*  
-- Authored and implemented **ML & Cybersecurity projects** for global university students.  
-- Produced technical reports involving **AI model development and penetration testing**. 
+**Hen Harrier Education Pvt Ltd** — *AI/ML & Cybersecurity Technical Analyst (Apr 2025 – Present)*  
+- Analyzed and developed AI/ML and cybersecurity project frameworks using Python for applied technical evaluation.
+- Built reproducible machine learning pipelines, curated datasets, and technical reports aligned with industry practices.
+- Supported analysis of penetration testing workflows and security assessment methodologies.
+- Designed Python-based prototypes for data analytics, model evaluation, and vulnerability assessment.
 
 **Gilbert Research Centre** — *Research Intern (Dec 2024 – Apr 2025)*  
 - Research and development in medical imaging.  
@@ -53,7 +56,7 @@ My focus lies in bridging the gap between **data-driven intelligence** and **sec
 
 ## Featured Projects
 
-### Data Science Projects
+### Machine Learning Projects
 
 |  Project |  Description | 🔗 Link |
 |------------|----------------|---------|
